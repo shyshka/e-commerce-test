@@ -3,7 +3,7 @@
 Clone the project
 
 ```bash
-  git clone https://gitlab.com/topmanager916-group/e-commerce
+  git clone https://gitlab.com/topmanager1016-group/e-commerce
 ```
 
 Go to the project directory
